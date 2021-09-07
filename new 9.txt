@@ -1,0 +1,67 @@
+Executive Summary:
+
+Ransomware: Paying up won't stop you from getting hit again, says cybersecurity chief. Paying up only advertises that you are willing to pay, warns NCSC boss.
+
+Cyber Insurance Does Not Appear to be Improving Cybersecurity. Purchasing cyber insurance doesn’t alleviate the responsibility to implement cyber security. The past year, with ransomware payouts by insurers, has been the first time they are operating in the red, so I expect insurers to either stop or modify their coverage for ransomware, or raise the bar by developing a cybersecurity “clean bill of health” (aka minimum standards) before providing coverage, as well as monitoring breach and incident notifications to ensure their insured clients are maintaining a healthy cyber security posture.
+
+
+
+30M Dell Devices at Risk for Remote BIOS Attacks, RCE
+
+A faulty update mechanism has left an estimated 30 million individual Dell endpoints worldwide, according to an analysis by Eclypsium. Dell is currently facing four separate security bugs that would give attackers almost complete control and persistence over targeted devices by allowing remote adversaries to gain arbitrary code execution in
+
+https://ooda.us1.list-manage.com/track/click?u=f16e84831246ee66e1d9f6eab&id=de233ca5dc&e=50620d4031
+
+
+MyBook Users Urged to Unplug Devices from Internet
+
+Hard drive giant Western Digital is urging users of its MyBook Live brand of
+network storage drives to disconnect them from the Internet, warning that
+malicious hackers are remotely wiping the drives using a previously unknown
+critical flaw that can be triggered by anyone who knows the Internet address
+of an affected device.
+
+https://krebsonsecurity.com/2021/06/mybook-users-urged-to-unplug-devices-from-internet/
+
+
+How Cyber Safe is Your Drinking Water Supply?
+
+Amid multiple recent reports of hackers breaking into and tampering with
+drinking water treatment systems comes a new industry survey with some
+sobering findings: A majority of the 52,000 separate drinking water systems in
+the United States still haven't inventoried some or any of their information
+technology systems -- a basic first step in protecting networks from
+cyberattacks.
+
+Source: https://krebsonsecurity.com/2021/06/how-cyber-safe-is-your-drinking-water-supply/
+
+
+A state-sponsored cyberespionage campaign that exploited vulnerabilities in  Pulse Connect Secure networking devices had a broader scope than initially suspected.
+
+The hack of Pulse Connect Secure networking devices came to light in April, but its scope is only now starting to become clear. The Associated Press has learned that the hackers targeted telecommunications giant Verizon and the country’s largest water agency. News broke earlier this month that the New York City subway system, the country’s largest, was also breached.
+
+Source: https://apnews.com/article/government-and-politics-hacking-technology-business-7350235e07d46ba5afc1238b553ea4b9
+
+
+
+Infamous RAT returns in COVID-related scams
+
+Description: The Agent Tesla remote access trojan (RAT) is back again, this time using COVID-19-related phishing documents as its initial infection vector. Attackers are sending emails claiming to have a COVID-19 vaccine schedule attached as an RTF document. The malicious attachment exploits a known Microsoft Office remote code execution vulnerability, CVE-2017-11882, to infect the victim with Agent Tesla. This version of the RAT appears to be the most recent, with updated anti-detection capabilities and data theft tools. Although many countries, including the U.S., are starting to loosen pandemic restrictions as vaccination rates increase, this campaign shows that attackers will continue using COVID-19 as a popular spam topic.
+
+Source: https://threatpost.com/agent-tesla-covid-vax-phish/167082/
+
+
+
+Researchers at Talos have observed an increase in Business Email Compromise attacks.
+
+Looking at conservative estimates, business email compromise losses are in the billions, with the FBI stating in 2020 alone the loses approached $1.8 Billion. This is an extremely lucrative enterprise with a low barrier to entry. Other forms of cybercrime are tougher to enter because the actor needs to source the malware they are going to distribute and have enough knowledge to set up and run the associated infrastructure — or at the very least, pay someone who does. At the very least, this takes a significant amount of time and effort, where BEC removes the majority of those barriers.
+
+Source: https://blog.talosintelligence.com/2021/06/business-email-compromise.html
+
+
+
+
+
+
+
+
